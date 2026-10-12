@@ -76,6 +76,6 @@ Missing something you work with? Handlers are meant to be written by the people 
 - **Want to contribute?** Pull requests are welcome. Each repo's CI must pass, and `main` is protected, so changes land through review.
 - **New format handlers** are the most valuable contribution; start in [FHR](https://github.com/ForgeHubProject/FHR).
 
-All three projects are MIT licensed.
+ForgeHub and forge are MIT licensed.
 
 <p align="center"><sub>Built so that "what changed?" always has an answer.</sub></p>
